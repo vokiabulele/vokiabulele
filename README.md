@@ -2,7 +2,7 @@
 
 
 <h1 align="left">Hi 👋, I'm Abulele Voki</h1>
-<h4 align="left">🌱 I'm Abulele, a passionate Application Development student from East London, South Africa, currently in Cape Town. I enjoy developing systems and applications that solve practical problems faced in everyday life.</h3>
+<h4 align="left"> I'm Abulele, a passionate Application Development student from East London, South Africa, currently in Cape Town. I enjoy developing systems and applications that solve practical problems faced in everyday life.</h3>
 
 - 🌱 I’m currently diving into React Native, while expanding my skills in full-stack web development and strengthening my Java proficiency.
 - 💻 I enjoy working on projects that challenge me to learn new technologies and improve my problem-solving skills.
