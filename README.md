@@ -70,7 +70,7 @@ const abulele = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vokiabulele&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=vokiabulele&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vokiabulele&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
