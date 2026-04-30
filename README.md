@@ -76,7 +76,7 @@ const abulele = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=vokiabulele&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
